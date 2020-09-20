@@ -15,7 +15,7 @@ você está desenvolvendo um jogo na qual o jogador possui a possibilidade de al
 
 # **Structure**
 
-[Imagem com a estrutura](https://github.com/LucasHOliveira/Trabalho-TemplateMethod/blob/master/ImagemEstrutura/Estrutura.png)
+[Imagem com a estrutura](https://github.com/LucasHOliveira/Trabalho-Composite/blob/master/ImagemEstrutura/Estrutura.png)
 
 # **Participants**
 
@@ -25,4 +25,4 @@ RA: 1811511908
 
 # **Sample Code**
 
-[Link para a pasta do código](https://github.com/LucasHOliveira/Trabalho-TemplateMethod/tree/master/ProjetoTM-Codigo)
+Professor não consegui implementar o código, tentei criar um projeto da mesma maneira de como aplicar que informei acima, mas sem sucesso.
